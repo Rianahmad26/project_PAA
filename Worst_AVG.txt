@@ -2,7 +2,7 @@
 n = 100  -> Worst Case: 0.0004s, Average Case: 0.0002s
 n = 150  -> Worst Case: 0.0006s, Average Case: 0.0003s
 n = 200  -> Worst Case: 0.0008s, Average Case: 0.0004s
-n = 250  -> Worst Case: 0.001s, Average Case: 0.0005s
+n = 250  -> Worst Case: 0.0010s, Average Case: 0.0005s
 n = 300  -> Worst Case: 0.0012s, Average Case: 0.0006s
 n = 350  -> Worst Case: 0.0014s, Average Case: 0.0007s
 n = 400  -> Worst Case: 0.0016s, Average Case: 0.0008s
